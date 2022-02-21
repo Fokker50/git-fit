@@ -1,3 +1,3 @@
 print('Welcome To Dev OPs!')
 print('Hello world")
-ptint("Hello Dev ops!!")
+print("Hello Dev ops!!")
